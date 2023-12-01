@@ -8,7 +8,7 @@ O Projeto de Previsão do Tempo é uma aplicação web desenvolvida para fornece
 ![Captura de Tela (103)](https://github.com/Rochadevj/Previsao-Tempo/assets/81716008/12bdc8b3-32b3-4722-97f7-3eed678a76ab)
 
 ## Layout mobile
-![image](https://github.com/jpbianchese/previsao-do-tempo/assets/81716008/39145762-3da2-4508-af18-de1ed042d3f5)
+![image](https://github.com/Rochadevj/Previsao-Tempo/assets/81716008/39145762-3da2-4508-af18-de1ed042d3f5)
 
 
 ## 🛠️ Construído com
