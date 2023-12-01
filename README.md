@@ -23,4 +23,4 @@ Este projeto está sob a licença [MIT licensed](./LICENSE).
 
 
 ---
-⌨️ com ❤️ por [Joao Pedro]([https://www.linkedin.com/in/henrique-rocha-389609287/](https://www.linkedin.com/in/joao-pedro-bianchese-8b2402264/)https://www.linkedin.com/in/joao-pedro-bianchese-8b2402264/) 
+⌨️ com ❤️ por [Joao Pedro](https://www.linkedin.com/in/joao-pedro-bianchese-8b2402264/) 
